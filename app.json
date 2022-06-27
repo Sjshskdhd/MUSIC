@@ -1,33 +1,33 @@
 {
-    "name": "🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ",
-    "logo": "https://telegra.ph/file/0e61a0eee04d1f8f56c82.jpg",
-    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
-    "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Sumit9969/ASUKA-MUSIC-BOT",
+    "name": "ثيندر ميوزك",
+    "logo": "https://telegra.ph/file/50f5cfbd494b902b74f1a.jpg",
+    "description": "بوت تشغيل الاغاني في المكالمات الصوتيه في التلجرام.",
+    "keywords": ["music", "voice chat", "ELLIOT"],
+    "repository": "https://github.com/MH7MD1/NEW",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "𝚈𝚘𝚞𝚛 𝙰𝚙𝚙 𝙸𝙳",
+            "description": "ايبي ايدي",
             "required": true
         },
         "API_HASH": {
-            "description": "𝚈𝚘𝚞𝚛 𝙰𝚙𝚙 𝙷𝚊𝚜𝚑",
+            "description": "ايبي هاش",
             "required": true
        },
         "BOT_USERNAME": {
-            "description": "𝙵𝚒𝚕𝚕 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞𝚛 𝚋𝚘𝚝 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚏𝚛𝚘𝚖 @BotFather 𝚋𝚞𝚝 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚞𝚜𝚒𝚗𝚐 '@' 𝚜𝚢𝚖𝚋𝚘𝚕",
+            "description": "معرف البوت @BotFather بدون '@' 𝚜𝚢𝚖𝚋𝚘𝚕",
             "required": true 
         },
         "BOT_TOKEN": {
-            "description": "𝙿𝚞𝚝 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙾𝚏 𝚈𝚘𝚞𝚛 𝙱𝚘𝚝",
+            "description": "توكن البوت",
             "required": true
         },
          "SUDO_USERS": {
-            "description": "𝚂𝚞𝚍𝚘 𝚞𝚜𝚎𝚛𝚜",
+            "description": "ايدي الادمن",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "𝙿𝚢𝚛𝚘𝚐𝚛𝚊𝚖 𝚂𝚝𝚛𝚒𝚗𝚐 𝚂𝚎𝚜𝚜𝚒𝚘𝚗: 𝚄𝚜𝚎 𝚃𝚑𝚎𝚜𝚎 𝙱𝚘𝚝 @Zebra_Session_GeneratorBot",
+            "description": "كود بايروجرام",
             "required": true
         }
     },
