@@ -1,6 +1,6 @@
- ### WELCOME TO SOURCE THUNDER
+ ### WELCOME TO SOURCE ELGAZAR
 
-<p align="center"><a href="https://t.me/T_HUNDER"><img src="https://telegra.ph/file/50f5cfbd494b902b74f1a.jpg"></a></p>
+<p align="center"><a href="https://t.me/A_M_363"><img src="https://telegra.ph/file/e523f48b0ac885a11d10d.jpg"></a></p>
 
 
  <h3 align="center">
@@ -16,6 +16,6 @@
 
 
 ### الدعم والتحديثات
-<a href="https://t.me/CHVOTLX"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/T_HUNDER"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/A_M_363"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/T_HUNDER"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 
  
